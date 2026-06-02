@@ -56,7 +56,7 @@ npm run dev
 
 * GitHub: https://github.com/muhammadjasil807
 * LinkedIn: https://linkedin.com/in/muhammad-jasil-e-k-6447732a7
-* Email: [muhammadjasil374@gmail.com](mailto:muhammadjasil374@gmail.com)
+* Email: [muhammadjasil807@gmail.com](mailto:muhammadjasil374@gmail.com)
 * Kaggle: https://kaggle.com/muhammadjasil
 * Dev.to: https://dev.to/muhammad_jasil
 
